@@ -66,6 +66,3 @@ dotnet run --project ai102Class
 
 ---
 
-## 📌 注意事項
-- 請勿將 `appsettings.json` 上傳至 GitHub
-- 請使用 `.gitignore` 忽略 `bin/`, `obj/`, `.vs/` 等
